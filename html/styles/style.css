@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    color: red;
+}
+
+span {
+    color: yellow;
+}
+
+paragraphe-color {
+    font-size: 1.5em;
+    color: #FFFF;
+}
+
+li {
+    color: white;
+    list-style-type: none;
+    list-style-image: url();
+}
+
+green {
+    color: rgb(0, 255, 0);
+    font-family: 'Courier New', Courier, monospace
+}
+
+div {
+    background-image: url("mdn_logo_only_color.png");
+}
+
+.catsandstars {
+    background-image: ("/assets/blackpaper.jpg"), url("catfront.png");
+    background-color: gray;
+}
